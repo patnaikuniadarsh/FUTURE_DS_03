@@ -23,67 +23,51 @@ Project Steps:
 
 4. Create bar charts and pie charts for visualization
 
-5. Identify highest and lowest rated questions
+5. Identify highest and lowest rated questioN
+# Student Feedback Analysis (Task 3)
+## Repository: FUTURE_DS_03
 
-Key Insights:
-
-Highest rated: Well versed with the subject
-
-Lowest rated: Class participation
-
-Recommendation: Improve low-rated areas and maintain strengths
-
-Tools:
-
-Google Colab, pandas, matplotlib, seaborn
-
-Deliverables;
-
-Notebook with analysis and charts
-
-Optional cleaned CSV for numeric data
-
-# Student Feedback Analysis - Task 3
-## Data Science Internship (FUTURE_DS_03)
-
-This repository contains the implementation of **Task 3**, focusing on Data Cleaning and Exploratory Data Analysis (EDA) of student feedback records.
+This project focuses on the cleaning and exploratory analysis of student feedback data. Below is a comprehensive view of all project assets and visual results.
 
 ---
 
-## 📂 Repository Contents
-
-| File Name | Description |
-| :--- | :--- |
-| `student_feedback_cleaned.csv` | The final dataset after removing noise and handling missing values. |
-| `g-c.pdf` | Detailed project documentation and technical report. |
-| `Screenshot (2).png` | Visualization of the data distribution. |
-| `WhatsApp Image...` | Various plots showing correlation and feedback trends. |
+## 📁 Project Assets
+* **Cleaned Dataset**: `student_feedback_cleaned.csv`
+* **Project Report**: `g-c.pdf`
 
 ---
 
-## 🛠️ Project Workflow
+## 🖼️ Visual Gallery (All Screenshots)
 
-### 1. Data Cleaning
-The raw data was processed to ensure high-quality analysis:
-* **Handling Missing Values**: Identification and treatment of null entries.
-* **Data Consistency**: Standardizing categorical responses.
-* **Duplicate Removal**: Ensuring each student entry is unique.
+Below are all the visualizations and results captured during the analysis phase.
 
-### 2. Exploratory Data Analysis (EDA)
-Using Python, I performed the following:
-* **Distribution Analysis**: Checking the spread of student ratings.
-* **Correlation**: Finding relationships between different feedback metrics.
-* **Visualization**: Using Seaborn and Matplotlib to create intuitive charts.
-
----
-
-## 📊 Key Visualizations
-*The following images represent the analytical findings of the project:*
-
-### Data Distribution & Insights
+### 1. Main Analysis Dashboard
 ![Main Analysis](./Screenshot%20(2).png)
 
-### Trend Analysis
-![Feedback Trends](./WhatsApp%20Image%202026-01-13%20at%204.40.21%20PM.jpeg)
+---
+
+### 2. Feedback Distribution Plots
+These visualizations show the spread and frequency of student ratings.
+
+| Visual A | Visual B |
+| :---: | :---: |
+| ![Distribution 1](./WhatsApp%20Image%202026-01-13%20at%204.40.21%20PM.jpeg) | ![Distribution 2](./WhatsApp%20Image%202026-01-13%20at%204.42.10%20PM.jpeg) |
 
 ---
+
+### 3. Detailed Metrics & Final Summary
+Additional insights into specific feedback categories and the final output summary.
+
+| Visual C | Visual D |
+| :---: | :---: |
+| ![Metrics](./WhatsApp%20Image%202026-01-13%20at%204.42.34%20PM.jpeg) | ![Final Summary](./WhatsApp%20Image%202026-01-13%20at%204.57.23%20PM.jpeg) |
+
+---
+
+## 🛠️ Implementation Details
+- **Data Source**: `student_feedback_cleaned.csv`
+- **Processing**: Removed duplicates and handled missing values to ensure data integrity.
+- **Tools**: Python, Pandas, Matplotlib, and Seaborn.
+
+---
+**Author:** [Adarsh Patnaikuni](https://github.com/patnaikuniadarsh)
