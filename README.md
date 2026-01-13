@@ -42,3 +42,48 @@ Deliverables;
 Notebook with analysis and charts
 
 Optional cleaned CSV for numeric data
+
+# Student Feedback Analysis - Task 3
+## Data Science Internship (FUTURE_DS_03)
+
+This repository contains the implementation of **Task 3**, focusing on Data Cleaning and Exploratory Data Analysis (EDA) of student feedback records.
+
+---
+
+## 📂 Repository Contents
+
+| File Name | Description |
+| :--- | :--- |
+| `student_feedback_cleaned.csv` | The final dataset after removing noise and handling missing values. |
+| `g-c.pdf` | Detailed project documentation and technical report. |
+| `Screenshot (2).png` | Visualization of the data distribution. |
+| `WhatsApp Image...` | Various plots showing correlation and feedback trends. |
+
+---
+
+## 🛠️ Project Workflow
+
+### 1. Data Cleaning
+The raw data was processed to ensure high-quality analysis:
+* **Handling Missing Values**: Identification and treatment of null entries.
+* **Data Consistency**: Standardizing categorical responses.
+* **Duplicate Removal**: Ensuring each student entry is unique.
+
+### 2. Exploratory Data Analysis (EDA)
+Using Python, I performed the following:
+* **Distribution Analysis**: Checking the spread of student ratings.
+* **Correlation**: Finding relationships between different feedback metrics.
+* **Visualization**: Using Seaborn and Matplotlib to create intuitive charts.
+
+---
+
+## 📊 Key Visualizations
+*The following images represent the analytical findings of the project:*
+
+### Data Distribution & Insights
+![Main Analysis](./Screenshot%20(2).png)
+
+### Trend Analysis
+![Feedback Trends](./WhatsApp%20Image%202026-01-13%20at%204.40.21%20PM.jpeg)
+
+---
